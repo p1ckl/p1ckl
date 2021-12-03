@@ -2,6 +2,7 @@
 I'm a senior in high school working on becoming an artificial intelligence and machine learning researcher
 
 Currently working on:
+* 2021 FRC Infinite Recharge Off Season: Setting up arduino and raspberry pi systems for scorekeeping.
 * NLPŞeysi: A NLP tool that allows the inclusion of other languages.
 * PapaOne: A chess bot that will play against my friends chess bot.
 * pOS: An OS that is purely designed to work as my dev environment. Uses REST API to login, and see user settings.
