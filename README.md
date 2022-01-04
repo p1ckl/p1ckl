@@ -17,7 +17,7 @@ Past Internship:
     * Designed and coded a new decision-making system for a crypto trading bot with Kotlin and MySQL database by using the data from Binance API
   * Binance Sync:
     * Created a Python package that automated the creation of new projects and the synchronizing of company-wide projects in Bitbucket
-* Game Development Intern, Valensas
+* Game Development Intern, FYK Information Technologies
 
 # Contact
 - egeerksen@gmail.com
