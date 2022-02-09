@@ -1,7 +1,8 @@
-# Hey, I’m @p1ckl
-I'm a senior in high school working on becoming an artificial intelligence and machine learning researcher
+# Hey, I’m @p1ckl,
+a guy that enjoys going fast, and neural netowrks
 
 Currently working on:
+* nutwork: Making my own neural network from scratch.
 * NLPŞeysi: A NLP tool that allows the inclusion of other languages.
 * PapaOne: A chess bot that will play against my friends chess bot.
 * pOS: An OS that is purely designed to work as my dev environment. Uses REST API to login, and see user settings.
